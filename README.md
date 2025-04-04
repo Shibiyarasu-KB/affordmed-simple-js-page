@@ -1,1 +1,0 @@
-# affordmed-simple-js-page
